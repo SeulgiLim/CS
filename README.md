@@ -6,3 +6,8 @@
 SQL 마스터클래스 
 1일차 - 왜 SQL을 배워야하는가? 
 2일차 - What is SQL
+
+
+티스토리에 본격적으로 글을 써보면서 CSS, HTML 활용에 익숙해져야한다는 걸 알게 됐다.
+글에 유튜브 영상 첨부하는데, 아래와 같이 코드를 붙여야한다는 것을 알고 놀라웠다.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dqoeJdvt-jg?si=PL2LCAMM1A8uusK-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
