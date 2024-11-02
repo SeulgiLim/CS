@@ -23,3 +23,5 @@ SQL 마스터클래스
 
 
 https://summerlim21.tistory.com/41
+
+SQL 공부한 것은 어떻게 Git에 올리지?
